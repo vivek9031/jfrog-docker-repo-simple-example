@@ -53,6 +53,8 @@
 
     Open Source/nginx.conf and replace domain name with your domain name and change your host ip.
 
+![conf](conf.png)
+
 <br>
 
 ## **Grant permission**
